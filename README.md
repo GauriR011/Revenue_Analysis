@@ -40,4 +40,4 @@ This dataframe was then converted to an excel file.
 8) Revenue and Growth Correlation:
 - Is there a correlation between revenue size and revenue growth rate?
 
-## Step 4: Insights
+<!-- ### Insights -->

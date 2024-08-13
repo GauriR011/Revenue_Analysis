@@ -5,6 +5,9 @@ Libraries such as Beautiful Soup was used to scrape the data and html tags were 
 This dataframe was then converted to an excel file.
 
 ## Step 2: Data Cleaning
+- The Location was split into City and State. 
+- No null values detected.
+- Fixing typos in column data.
 
 ## Step 3: Data Analysis
 ### Questions to address:

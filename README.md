@@ -19,7 +19,7 @@ This dataframe was then converted to an excel file.
 - Which industries have the highest total revenue?
 - How does revenue compare across different industries?
 
-3)Revenue Growth Analysis:
+3) Revenue Growth Analysis:
 - What is the average revenue growth rate among these companies?
 - Are there industries with notably high or low revenue growth?
 
